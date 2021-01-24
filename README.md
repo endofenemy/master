@@ -4,22 +4,19 @@ Initial Commit
 #Setup
 Take Clone or unzip folder and sync
 
-#Design Pattern
+#Design Pattern :: 
 MVVM (Model View ViewModel)
 Avtivity->StockViewModel->StockRepository->MyAPI(Retrofit Interface)
 
 # Language used
 Kotlin
 
-#Network Library
-Retrofit
+#Network Library :: Retrofit
 
-#Graph Library
-implementation 'com.github.Pfuster12:LiveChart:1.3.4'
+#Graph Library :: implementation 'com.github.Pfuster12:LiveChart:1.3.4'
 
 
-#Home Page 
-StockListActivity
+#Home Page :: StockListActivity
 
 #All Activities
 StockListActivity
